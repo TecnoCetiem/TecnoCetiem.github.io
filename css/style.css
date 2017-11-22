@@ -67,15 +67,7 @@ a:focus {
     margin-bottom: 0;
     width: 100%;
     border-bottom: /*1px*/ solid rgba(255,255,255,.3);
-    display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+    
 
 }
 
