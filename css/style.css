@@ -65,6 +65,7 @@ a:focus {
 
 .navbar {
     margin-bottom: 0;
+    width: 100%;
     border-bottom: 1px solid rgba(255,255,255,.3);
 
 }
