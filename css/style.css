@@ -314,8 +314,8 @@ hr {
 .intro {
 	
 	background: url(/img/bg.png) no-repeat top center;
-    background-size: cover;
-    right: 0%;
+  background-size: cover;
+   right: 0%;
   height: 60vh;
   text-align: center;
   display: -webkit-flex;
