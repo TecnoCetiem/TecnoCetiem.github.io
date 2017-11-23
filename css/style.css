@@ -58,6 +58,13 @@ a:focus {
     text-decoration: none;
     color: #176e61;
 }
+div.row{
+   margin-right: 0px;
+}
+
+div.container-fluid{
+   padding-right: 0px;
+}
 
 .light {
     font-weight: 400;
