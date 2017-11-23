@@ -1039,3 +1039,20 @@ fieldset {
         margin-top: 20px;
     }
 }
+.intro1 {
+  
+  background: url(/img/teamcetiem.png) no-repeat top center;
+  background-size: cover;
+  height: 60vh;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  max-width: 100%;
+}
